@@ -1,4 +1,4 @@
-# Spring Boot 4 + Spring Security 7 실습
+# Spring Boot 4 + Spring Security 7 실습 - 2271507 김수진
 
 Spring Boot 4 / Spring Security 7을 이용한 Session 기반 인증 실습 프로젝트입니다.
 
